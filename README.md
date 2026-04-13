@@ -1,5 +1,5 @@
 ¡Hola! Soy Isaac Berríos García 👋
-Desarrollador Web & Especialista en Implementación de IA
+Desarrollador Web con implementación de IA
 
 Apasionado por construir soluciones digitales eficientes y modernas. Mi enfoque principal es el desarrollo web, potenciado por el uso estratégico de Inteligencia Artificial para acelerar el ciclo de desarrollo, optimizar la calidad del código y crear experiencias de usuario intuitivas.
 
