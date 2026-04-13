@@ -6,6 +6,7 @@ Apasionado por construir soluciones digitales eficientes y modernas. Mi enfoque 
 He participado en el desarrollo de diversas plataformas, desde entornos escolares y de apoyo comunitario hasta sistemas enfocados en gaming y comercio electrónico.
 
 🛠️ Stack Tecnológico
+
 Mi flujo de trabajo se basa en VS Code, donde integro herramientas de IA para maximizar mi productividad y mantener altos estándares de calidad.
 
 Lenguajes: JavaScript, Python, HTML5, CSS3, SQL.
