@@ -1,38 +1,57 @@
-<p align="center">
-  <img src="banner-perfil.png" alt="Isaac Berríos - Desarrollador Web" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pcbsystempr-cyber/pcbsystempr-cyber/main/assets/banner.png" alt="Isaac Berríos García - Software Engineer" width="100%">
+</div>
 
+# 🚀 Isaac Berríos García
+### Software Engineer | Web Development & AI Implementation Specialist
 
-¡Hola! Soy Isaac Berríos García 👋
-Desarrollador Web con implementación de IA
+---
 
-Apasionado por construir soluciones digitales eficientes y modernas. Mi enfoque principal es el desarrollo web, potenciado por el uso estratégico de Inteligencia Artificial para acelerar el ciclo de desarrollo, optimizar la calidad del código y crear experiencias de usuario intuitivas.
+## 👨‍💻 Sobre mí
+Ingeniero de Software enfocado en la arquitectura y creación de soluciones web robustas, escalables y modernas. Mi propuesta de valor radica en la **fusión de metodologías de ingeniería de software con herramientas de Inteligencia Artificial de vanguardia**. 
 
-He participado en el desarrollo de diversas plataformas, desde entornos escolares y de apoyo comunitario hasta sistemas enfocados en gaming y comercio electrónico.
+Utilizo la IA no solo como asistente, sino como un motor para acelerar el ciclo de vida de desarrollo (SDLC), optimizar la calidad del código, realizar refactorizaciones inteligentes y reducir la deuda técnica desde la etapa de diseño.
 
-🛠️ Stack Tecnológico
+* **Especialidades:** Arquitectura Web, UI/UX intuitiva, Automatización con IA.
+* **Experiencia:** Desarrollo de plataformas para sectores académicos, gaming y comercio electrónico.
 
-Mi flujo de trabajo se basa en VS Code, donde integro herramientas de IA para maximizar mi productividad y mantener altos estándares de calidad.
+---
 
-Lenguajes: JavaScript, Python, HTML5, CSS3, SQL.
+## 🛠️ Stack Tecnológico
+Mi flujo de trabajo está optimizado para la eficiencia, utilizando el ecosistema de **VS Code** junto con herramientas de control de versiones y metodologías ágiles.
 
-Frameworks/Librerías: React.
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | JavaScript (ES6+), Python, SQL |
+| **Frontend** | React, HTML5, CSS3 |
+| **Backend / DB** | MySQL, Integraciones API |
+| **Herramientas IA** | Prompt Engineering, AI-Assisted Debugging, Refactoring |
+| **Entorno** | VS Code, Git, GitHub |
 
-Bases de Datos: MySQL.
+---
 
-Herramientas de IA: Experiencia en integración de asistentes de IA para depuración, refactorización y aceleración de desarrollo (Prompt Engineering aplicado al código).
+## 🚀 Proyectos Estratégicos
+He diseñado y ejecutado diversos sistemas aplicando buenas prácticas de ingeniería para garantizar funcionalidad y escalabilidad:
 
-🚀 Proyectos Destacados
+* **[Gaming Day Official](https://pcbsystempr-cyber.github.io/Gaming_Day_Official/):** Plataforma para gestión de comunidades de gaming, priorizando la interacción y la experiencia de usuario.
+* **[Unidad de Apoyo SocioEmocional](https://pcbsystempr-cyber.github.io/Unidad-de-ApoyoSocioEmocional/):** Sistema de soporte digital enfocado en la accesibilidad y el bienestar, desarrollado bajo estándares de diseño centrado en el usuario.
+* **[Casa Abierta Official](https://pcbsystempr-cyber.github.io/Casa_Abierta_Official/):** Aplicación web para la optimización de flujos escolares y comunicación institucional, optimizando la gestión de datos.
 
-Aquí puedes ver algunos de los proyectos en los que he trabajado, enfocados en funcionalidad y experiencia de usuario:
+---
 
-Gaming Day Official: Plataforma dedicada a la gestión de eventos de gaming. Enlace directo: [https://pcbsystempr-cyber.github.io/Gaming_Day_Official/]
+## 📈 Estadísticas de Contribución
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcbsystempr-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-Unidad de Apoyo SocioEmocional: Proyecto con enfoque social, diseñado para la accesibilidad y el bienestar del usuario. Enlace directo: [https://pcbsystempr-cyber.github.io/Unidad-de-ApoyoSocioEmocional/]
+---
 
-Casa Abierta Official: Aplicación web desarrollada para optimizar la interacción en entornos escolares. Enlace directo: [https://pcbsystempr-cyber.github.io/Casa_Abierta_Official/]
+## 📬 Contacto
+Actualmente estoy abierto a nuevas oportunidades donde pueda aplicar mis conocimientos en **Ingeniería de Software e integración de IA** para resolver problemas complejos y escalar proyectos digitales.
 
-📬 Contacto
-¿Tienes un proyecto en mente o buscas un perfil que combine desarrollo web con implementación de IA? ¡Hablemos!
+* **Correo:** `isaac.berrios.dev@gmail.com`
+* **LinkedIn:** [Añade aquí tu perfil]
+* **Ubicación:** Puerto Rico
 
-Correo: hackerpcb3@gmail.com
+---
+<div align="center">
+  <p>🚀 Siempre en constante aprendizaje y evolucionando junto a la tecnología.</p>
+</div>
