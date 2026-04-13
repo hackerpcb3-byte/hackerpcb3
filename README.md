@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TuUsuario/TuRepositorio/main/ruta/a/banner_portfolio.png" alt="Isaac Berríos - Desarrollador Web con IA" width="100%">
+  <img src="banner-perfil.png" alt="Isaac Berríos - Desarrollador Web" width="100%">
 </p>
+
 
 ¡Hola! Soy Isaac Berríos García 👋
 Desarrollador Web con implementación de IA
