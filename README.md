@@ -27,6 +27,4 @@ Casa Abierta Official: Aplicación web desarrollada para optimizar la interacci�
 📬 Contacto
 ¿Tienes un proyecto en mente o buscas un perfil que combine desarrollo web con implementación de IA? ¡Hablemos!
 
-LinkedIn: [Inserta tu enlace aquí]
-
-Correo: [Inserta tu correo aquí]
+Correo: hackerpcb3@gmail.com
