@@ -18,6 +18,7 @@ Bases de Datos: MySQL.
 Herramientas de IA: Experiencia en integración de asistentes de IA para depuración, refactorización y aceleración de desarrollo (Prompt Engineering aplicado al código).
 
 🚀 Proyectos Destacados
+
 Aquí puedes ver algunos de los proyectos en los que he trabajado, enfocados en funcionalidad y experiencia de usuario:
 
 Gaming Day Official: Plataforma dedicada a la gestión de eventos de gaming. Enlace directo: [https://pcbsystempr-cyber.github.io/Gaming_Day_Official/]
