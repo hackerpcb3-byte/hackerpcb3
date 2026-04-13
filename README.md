@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pcbsystempr-cyber/pcbsystempr-cyber/main/assets/banner.png" alt="Isaac Berríos García - Software Engineer" width="100%">
+  <img src="banner/image1.png" width="100%">
 </div>
 
 # 🚀 Isaac Berríos García
