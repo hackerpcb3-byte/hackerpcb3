@@ -39,16 +39,10 @@ He diseñado y ejecutado diversos sistemas aplicando buenas prácticas de ingeni
 
 ---
 
-## 📈 Estadísticas de Contribución
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcbsystempr-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
----
-
 ## 📬 Contacto
 Actualmente estoy abierto a nuevas oportunidades donde pueda aplicar mis conocimientos en **Ingeniería de Software e integración de IA** para resolver problemas complejos y escalar proyectos digitales.
 
-* **Correo:** `isaac.berrios.dev@gmail.com`
-* **LinkedIn:** [Añade aquí tu perfil]
+* **Correo:** hackerpcb3@gmail.com
 * **Ubicación:** Puerto Rico
 
 ---
